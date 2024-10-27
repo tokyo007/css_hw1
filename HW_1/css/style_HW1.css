@@ -1,0 +1,51 @@
+/* Center the h1 element */
+h1{
+    text-align:center;
+    background-color: hsl(197, 69%, 83%);
+    font-family: 'Arial', 'Noto Sans', Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+}
+
+nav {
+    background-color: hsl(197, 38%, 53%);
+    font-family: 'Arial', 'Noto Sans', Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100%;
+    font-color: rgb(28, 28, 27);
+}
+
+li{
+    font-size: 18px;
+    line-height: bold 1.5;
+    font-family: 'Arial', 'Noto Sans', Verdana, Geneva, Tahoma, sans-serif;
+    display: inline;
+    padding: 25px;
+    margin: 10px;
+    width: max-content;
+}    
+
+body {
+    background-color: #c7b2b2;
+    font-family: 'Arial', 'Noto Sans', Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100%;
+}
+main {
+    min-height: 100%;
+    margin-bottom: 100px;
+    background: #daed09;
+    font-size: 100%;
+}
+
+p{
+    font-size: 24px;
+    line-height: normal;
+    font-family: 'Arial', 'Noto Sans', Verdana, Geneva, Tahoma, sans-serif;
+}
+
+}
+
+footer {
+    height: 100px;
+    background: #eee;
+}
+}
